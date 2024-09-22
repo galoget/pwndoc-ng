@@ -43,7 +43,7 @@
     "otpauth": "^7.0.6",
     "pizzip": "^3.1.4",
     "qrcode": "^1.5.1",
-    "socket.io": "^4.6.1",
+    "socket.io": "^4.8.0",
     "swagger-ui-express": "^4.6.0",
     "winston": "^2.3.1",
     "xml": "^1.0.1"
